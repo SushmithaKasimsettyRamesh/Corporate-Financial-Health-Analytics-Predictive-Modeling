@@ -25,19 +25,11 @@ A comprehensive financial data analysis project that evaluates company financial
 ## 📁 Repository Structure
 ```
 ├── data/
-│   └── financial_health_analysis_dataset.csv
 ├── notebooks/
-│   ├── 01_descriptive_analysis.ipynb
-│   └── 02_inferential_analysis.ipynb
 ├── src/
-│   ├── data_cleaning.py
-│   ├── statistical_analysis.py
-│   └── visualization.py
 ├── results/
-│   ├── plots/
-│   └── summary_report.md
-├── requirements.txt
 └── README.md
+
 ```
 
 ## 🔍 Analysis Workflow
